@@ -1,0 +1,4 @@
+com\example\GMServer\GameController.class
+com\example\GMServer\ServletInitializer.class
+com\example\GMServer\GmServerApplication.class
+com\example\GMServer\Game.class
